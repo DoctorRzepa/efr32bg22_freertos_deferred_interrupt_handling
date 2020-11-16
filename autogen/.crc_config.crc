@@ -1,0 +1,10 @@
+#CRC Codes for initially generated config files -- do not modify!
+#Mon Nov 16 11:09:25 CET 2020
+sl_simple_led_LED2_config.h=1199478618
+FreeRTOSConfig.h=1557807085
+sl_simple_led_LED1_config.h=127433315
+sl_sleeptimer_config.h=1582187036
+sl_device_init_dcdc_config.h=540536968
+sl_power_manager_config.h=765860105
+sl_memory_config.h=-995392215
+sl_device_init_emu_config.h=1238190016
